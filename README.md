@@ -1,5 +1,5 @@
 ## PRACTICA LOGICA DE PROGRAMACION
-En este repositorio van a haber ejercicios practicos faciles hasta dificiles ayudando a ir desarrollando y/o practicando
+En este repositorio van a haber ejercicios practicos faciles hasta dificiles permitiendome ir desarrollando y/o practicando al mismo tiempo
 logica de programacion en diferentes lenguajes
 
 ## LENGUAJES
