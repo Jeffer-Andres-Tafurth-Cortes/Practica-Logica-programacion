@@ -3,7 +3,7 @@ En este repositorio van a haber ejercicios practicos faciles hasta dificiles per
 logica de programacion en diferentes lenguajes
 
 ## LENGUAJES
-Ire desarrollando los ejercicios de logica de programacion en 4 lenguajes
+Iniclamente ire desarrollando los ejercicios de logica de programacion en 4 lenguajes (Poco a poco ire añadiendo nuevos lenguajes de programacion que ire aprendiendo)
 - JavaScript
 - TypeScript
 - PHP
