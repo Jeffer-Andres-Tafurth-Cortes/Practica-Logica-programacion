@@ -10,4 +10,4 @@ Iniclamente ire desarrollando los ejercicios de logica de programacion en 4 leng
 - C#
 
 ## CRONOGRAMA
-Este repositiorio se ira actualizando cada sabado con los ejercicios resueltos en cada lenguaje propuesto
+Este repositiorio se ira actualizando cada sabado y domingo con los ejercicios resueltos en cada lenguaje propuesto
