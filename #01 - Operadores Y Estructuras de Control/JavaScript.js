@@ -54,6 +54,13 @@ let n = 3
 let o = m % n
 console.log(o);
 
+// Operador de exponenciación
+3 ** 2 == 9? console.log(true) : console.log(false);
+
+// Operador de concatenacion
+let palabra1 = 'Hola '
+let palabra2 = 'Mundo!'
+console.log(palabra1 + palabra2);
 
 
 // OPERADORES DE COMPARACION
